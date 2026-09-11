@@ -1,0 +1,5 @@
+feature_set,model,number_of_features,mae_years,rmse_years,oof_r_squared
+Core upstream features,Ridge,8,1.8948959690674354,2.677017575808664,0.704497598248629
+Core upstream features,Gradient Boosting,8,1.9187432026778883,2.8573075094471583,0.6633547158078994
+Extended health-context features,Ridge,12,1.9373945184139216,2.7124696009969873,0.6966190343421579
+Extended health-context features,Gradient Boosting,12,1.8807237960268643,2.4874288442813817,0.7448709557047748

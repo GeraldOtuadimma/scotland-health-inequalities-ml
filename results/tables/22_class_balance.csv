@@ -1,0 +1,4 @@
+class_code,hle_category,rows,female_rows,male_rows,represented_councils,lower_boundary_years,upper_boundary_years
+0,Low HLE,22,11,11,11,-inf,58.1
+1,Middle HLE,21,10,11,11,58.1,62.0
+2,High HLE,21,11,10,11,62.0,inf

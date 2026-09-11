@@ -1,0 +1,65 @@
+model,fold,mae_years,rmse_years,best_parameters
+Dummy mean,1,4.8428571428571425,5.738655623693317,{}
+Dummy mean,2,4.582142857142856,5.540019063549311,{}
+Dummy mean,3,4.448214285714286,4.621862214695788,{}
+Dummy mean,4,6.000000000000002,8.33712670889702,{}
+Dummy mean,5,3.86785714285714,4.503513367700957,{}
+Dummy mean,6,3.569642857142857,4.198663538580352,{}
+Dummy mean,7,1.0928571428571443,1.421841289687857,{}
+Dummy mean,8,3.894642857142859,4.631224782354436,{}
+Linear regression,1,1.3918814478873847,1.7655059784023377,{}
+Linear regression,2,2.0484577219221025,2.468286521138686,{}
+Linear regression,3,1.3648035614922964,1.8110009021125444,{}
+Linear regression,4,4.033630180413469,4.736503208377063,{}
+Linear regression,5,1.731889205641636,2.134625441058923,{}
+Linear regression,6,2.5541586990480445,3.201458323091087,{}
+Linear regression,7,2.298546156311005,2.362825073482776,{}
+Linear regression,8,1.867142910289866,2.5423995137115463,{}
+Ridge,1,1.3101296249472654,1.6358732445271438,{'model__alpha': 10}
+Ridge,2,2.4085055881557507,2.9959822848395894,{'model__alpha': 10}
+Ridge,3,1.1562912691492446,1.4950044870740662,{'model__alpha': 10}
+Ridge,4,4.232794563616206,5.295394385791799,{'model__alpha': 10}
+Ridge,5,1.0896469561960824,1.6695342233902142,{'model__alpha': 10}
+Ridge,6,1.8480145993629504,2.4594580672069286,{'model__alpha': 10}
+Ridge,7,1.8302814086518726,1.9124263067278415,{'model__alpha': 10}
+Ridge,8,1.2835037424601117,1.7057258521648657,{'model__alpha': 10}
+Elastic Net,1,2.083908120342369,2.4312136801195985,"{'model__alpha': 1, 'model__l1_ratio': 0.1}"
+Elastic Net,2,2.355629575858834,2.902505661912293,"{'model__alpha': 0.1, 'model__l1_ratio': 0.1}"
+Elastic Net,3,1.2111583330135032,1.4962097402309151,"{'model__alpha': 0.1, 'model__l1_ratio': 0.1}"
+Elastic Net,4,4.167036767892402,5.146846001988671,"{'model__alpha': 0.1, 'model__l1_ratio': 0.1}"
+Elastic Net,5,1.390650292957404,1.592727561687892,"{'model__alpha': 1, 'model__l1_ratio': 0.1}"
+Elastic Net,6,1.9143085976325551,2.5591455770859275,"{'model__alpha': 0.1, 'model__l1_ratio': 0.1}"
+Elastic Net,7,1.9429612847335802,2.010047000466616,"{'model__alpha': 0.1, 'model__l1_ratio': 0.1}"
+Elastic Net,8,1.0557842028028155,1.3267212345009756,"{'model__alpha': 1, 'model__l1_ratio': 0.1}"
+Random Forest,1,1.4691875000000216,1.5531137776254766,"{'model__max_depth': None, 'model__max_features': 0.7, 'model__min_samples_leaf': 1}"
+Random Forest,2,1.5761167126748754,2.2514576518373928,"{'model__max_depth': 2, 'model__max_features': 0.7, 'model__min_samples_leaf': 3}"
+Random Forest,3,1.894288060550549,2.032651253686436,"{'model__max_depth': None, 'model__max_features': 0.7, 'model__min_samples_leaf': 3}"
+Random Forest,4,4.111078915182059,5.23206842908562,"{'model__max_depth': None, 'model__max_features': 0.7, 'model__min_samples_leaf': 3}"
+Random Forest,5,2.4733142877955006,2.9631725075276343,"{'model__max_depth': None, 'model__max_features': 0.7, 'model__min_samples_leaf': 3}"
+Random Forest,6,1.6610920260295172,2.250009046271769,"{'model__max_depth': None, 'model__max_features': 0.7, 'model__min_samples_leaf': 3}"
+Random Forest,7,0.95396223689505,1.1320932799658554,"{'model__max_depth': None, 'model__max_features': 0.7, 'model__min_samples_leaf': 3}"
+Random Forest,8,0.6973749999999965,0.8814271453160611,"{'model__max_depth': None, 'model__max_features': 0.7, 'model__min_samples_leaf': 1}"
+Gradient Boosting,1,1.467372825098856,1.5292316335926954,"{'model__learning_rate': 0.1, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 100}"
+Gradient Boosting,2,1.789522035019715,2.836487579436035,"{'model__learning_rate': 0.05, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 100}"
+Gradient Boosting,3,3.122392558051315,4.446704405545849,"{'model__learning_rate': 0.1, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 100}"
+Gradient Boosting,4,3.6923407842020346,4.687076685544849,"{'model__learning_rate': 0.1, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 50}"
+Gradient Boosting,5,1.9390768311076751,2.311084826626096,"{'model__learning_rate': 0.05, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 100}"
+Gradient Boosting,6,1.5552728045373243,2.190026884944546,"{'model__learning_rate': 0.05, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 100}"
+Gradient Boosting,7,0.8969509483661176,1.4350432258608923,"{'model__learning_rate': 0.1, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 100}"
+Gradient Boosting,8,0.8870168350400682,0.9954348957415662,"{'model__learning_rate': 0.05, 'model__max_depth': 1, 'model__min_samples_leaf': 2, 'model__n_estimators': 100}"
+Support Vector Regression,1,1.1831896963378394,1.6155563835647595,"{'model__C': 10, 'model__epsilon': 0.1}"
+Support Vector Regression,2,2.510175739661916,3.5384829158594533,"{'model__C': 10, 'model__epsilon': 0.5}"
+Support Vector Regression,3,3.3779745479539542,3.9589050413867475,"{'model__C': 100, 'model__epsilon': 0.1}"
+Support Vector Regression,4,4.670561570911082,5.808384173676823,"{'model__C': 10, 'model__epsilon': 0.5}"
+Support Vector Regression,5,1.7856212623253143,2.1261069326241815,"{'model__C': 10, 'model__epsilon': 0.5}"
+Support Vector Regression,6,2.053125109993559,2.901411416264251,"{'model__C': 10, 'model__epsilon': 0.5}"
+Support Vector Regression,7,1.6355659391299913,1.7915100001557327,"{'model__C': 10, 'model__epsilon': 0.1}"
+Support Vector Regression,8,0.932652353147227,1.1232917894516596,"{'model__C': 10, 'model__epsilon': 0.1}"
+k-Nearest Neighbours,1,1.8245484148713977,2.1301513306842046,"{'model__n_neighbors': 7, 'model__weights': 'distance'}"
+k-Nearest Neighbours,2,2.165925660529024,3.165222380848332,"{'model__n_neighbors': 5, 'model__weights': 'distance'}"
+k-Nearest Neighbours,3,1.6039626174622397,2.416066348664868,"{'model__n_neighbors': 5, 'model__weights': 'distance'}"
+k-Nearest Neighbours,4,5.1974103888025995,6.202919136840789,"{'model__n_neighbors': 7, 'model__weights': 'distance'}"
+k-Nearest Neighbours,5,1.394443055558411,1.7319320722878995,"{'model__n_neighbors': 5, 'model__weights': 'distance'}"
+k-Nearest Neighbours,6,1.4382378814281873,2.278745031324654,"{'model__n_neighbors': 7, 'model__weights': 'distance'}"
+k-Nearest Neighbours,7,1.7111968972626697,1.9065987998282945,"{'model__n_neighbors': 7, 'model__weights': 'distance'}"
+k-Nearest Neighbours,8,0.6083333333333343,0.805881160249105,"{'model__n_neighbors': 3, 'model__weights': 'uniform'}"

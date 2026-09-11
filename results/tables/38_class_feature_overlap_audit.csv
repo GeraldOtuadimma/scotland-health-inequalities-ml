@@ -1,0 +1,4 @@
+hle_category,count,min,median,max
+Low HLE,22,18.300654,34.675615,45.978552
+Middle HLE,21,3.174603,10.576923,19.838057
+High HLE,21,0.0,3.846154,12.060302

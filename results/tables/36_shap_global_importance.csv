@@ -1,0 +1,9 @@
+feature,feature_label,mean_absolute_shap_years
+sex_female,Female sex,0.0
+economic_employment_rate_pct,Employment rate (%),0.0
+economic_self_employed_among_employed_pct,Self-employed among employed (%),0.0
+economic_part_time_among_employed_pct,Part-time among employed (%),0.06796251701333278
+census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,0.13797103160164081
+census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),0.3815505137489742
+economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),0.7846582039419638
+simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),2.1900758971424237

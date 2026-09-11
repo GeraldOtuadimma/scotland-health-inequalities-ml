@@ -1,0 +1,17 @@
+result,value
+Mean female-minus-male HLE difference,0.42 years (bootstrap 95% CI 0.21 to 0.64)
+Least-versus-most deprivation quartile HLE gap,11.59 years (bootstrap 95% CI 9.19 to 14.41)
+Adjusted deprivation association in primary regression,-3.23 years per SD (clustered 95% CI -5.61 to -0.85)
+Weighted deprivation sensitivity estimate,-3.09 years per SD (clustered 95% CI -4.62 to -1.56)
+Leave-one-council-out deprivation estimate range,-3.80 to -1.94 years per SD
+Low HLE upper boundary,58.1 years
+Middle HLE upper boundary,62.0 years
+Best non-dummy regression model,Random Forest
+Best regression MAE,1.85 years
+Best regression RMSE,2.62 years
+Best non-dummy three-class classifier,Random Forest
+Best classifier balanced accuracy,0.827
+Best classifier macro-F1,0.828
+Best classifier weighted kappa,0.870
+Agreement between regression and classification bands,0.938
+Maximum exact Shapley additivity error,1.421e-14

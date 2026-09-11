@@ -1,0 +1,3 @@
+measure,estimate,ci_lower,ci_upper
+Absolute HLE gap (least minus most exposed quartile),11.587499999999991,9.193750000000001,14.406406250000005
+Relative HLE ratio (least divided by most exposed quartile),1.2139148494288678,1.1686116250019365,1.267087668781927

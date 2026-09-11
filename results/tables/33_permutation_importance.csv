@@ -1,0 +1,9 @@
+feature,feature_label,mean_mae_increase,standard_deviation,shuffle_interval_lower,shuffle_interval_upper
+sex_female,Female sex,0.0,0.0,0.0,0.0
+economic_employment_rate_pct,Employment rate (%),0.0,0.0,0.0,0.0
+economic_self_employed_among_employed_pct,Self-employed among employed (%),0.0,0.0,0.0,0.0
+economic_part_time_among_employed_pct,Part-time among employed (%),0.1117156920451553,0.026537282332744626,0.05746102062971635,0.13592503402666534
+census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,0.25175591787843526,0.035205513904850314,0.1529375016380229,0.27594206320328163
+census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),0.44193391058992776,0.0682589542667773,0.3225294622154774,0.575772216370158
+economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),0.6436009161433247,0.09254295727127192,0.4765223752005223,0.8332332174927338
+simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),2.4058373747384754,0.2534670648432259,1.9076200998064308,2.8414635808379156

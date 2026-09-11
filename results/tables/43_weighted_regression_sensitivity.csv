@@ -1,0 +1,8 @@
+feature,feature_label,weighted_estimate_years,clustered_standard_error,ci_lower,ci_upper
+Intercept,Intercept,59.66787658077482,0.45266406932676945,58.744662124682364,60.59109103686728
+sex_female,Female sex,0.22797099652409258,0.677889812058069,-1.1545943903434734,1.6105363833916586
+simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),-3.091521040545147,0.7506476682081912,-4.622477053361862,-1.560565027728431
+economic_employment_rate_pct,Employment rate (%),-0.18296673349102255,0.46554470906496787,-1.1324514275277284,0.7665179605456834
+economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),-0.4228513574231272,0.9906880686950653,-2.443372994711202,1.5976702798649476
+census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),0.6429395338493475,0.8335092669909675,-1.0570138238747449,2.34289289157344
+census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,0.4515258344636752,0.9132986851220519,-1.4111591144189093,2.31421078334626

@@ -1,0 +1,5 @@
+check,value
+Reference prediction,58.92550528351552
+Maximum SHAP additivity error,1.4210854715202004e-14
+Rows explained,64.0
+Features explained,8.0

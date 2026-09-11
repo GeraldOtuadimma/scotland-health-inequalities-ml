@@ -1,0 +1,9 @@
+feature,feature_label,importance
+sex_female,Female sex,0.0002651835320356366
+economic_self_employed_among_employed_pct,Self-employed among employed (%),0.012030685371068032
+economic_employment_rate_pct,Employment rate (%),0.012180632196684641
+economic_part_time_among_employed_pct,Part-time among employed (%),0.020950202905944963
+census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,0.030325263876834284
+census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),0.060609364948521295
+economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),0.29737041056061714
+simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),0.566268256608294

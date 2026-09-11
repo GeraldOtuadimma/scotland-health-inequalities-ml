@@ -1,0 +1,9 @@
+feature,feature_label,standardised_coefficient_years,absolute_coefficient
+census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,0.05990897203657162,0.05990897203657162
+sex_female,Female sex,0.5194132249385134,0.5194132249385134
+census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),0.6080160827017164,0.6080160827017164
+economic_employment_rate_pct,Employment rate (%),0.9344368947488021,0.9344368947488021
+economic_self_employed_among_employed_pct,Self-employed among employed (%),0.9694465256306155,0.9694465256306155
+economic_part_time_among_employed_pct,Part-time among employed (%),1.2101977176363734,1.2101977176363734
+economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),-1.2486583261931243,1.2486583261931243
+simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),-1.695370963114723,1.695370963114723

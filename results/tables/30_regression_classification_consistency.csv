@@ -1,0 +1,7 @@
+metric,value
+Regression-derived band accuracy,0.796875
+Regression-derived weighted kappa,0.8434913468773514
+Direct classifier accuracy,0.828125
+Direct classifier weighted kappa,0.8704930095658572
+Agreement between modelling routes,0.9375
+Extreme disagreement between routes,0.0

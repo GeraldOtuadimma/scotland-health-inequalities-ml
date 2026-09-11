@@ -1,0 +1,10 @@
+check,result,observed
+"Expected 1,280 rows",True,1280
+Expected 32 council areas,True,32
+Expected two sex groups,True,2
+Expected 20 HLE age groups,True,20
+Duplicate natural keys,True,0
+Missing values,True,0
+HLE outside plausible 0-100 range,True,0.9 to 74.1
+Percentage values outside 0-100 range,True,0.00 to 68.45
+Invalid confidence intervals,True,Lower CI ≤ estimate ≤ upper CI

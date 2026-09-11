@@ -1,0 +1,3 @@
+diagnostic,statistic,p_value,interpretation
+Shapiro-Wilk residual normality,0.906550732557303,0.00014260726408605085,Small p suggests residual non-normality
+Breusch-Pagan-style auxiliary test,6.282267946474015,0.39232440807400987,No strong evidence of unequal variance; council clustering accounts for within-council dependence.

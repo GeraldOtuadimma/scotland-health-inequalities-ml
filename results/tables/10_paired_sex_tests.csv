@@ -1,0 +1,4 @@
+measure,estimate,ci_lower,ci_upper,p_value
+Mean female-minus-male difference,0.4156249999999999,0.20625000000000004,0.6406249999999996,
+Paired t-test,3.699281644412151,,,0.0008361661104185396
+Wilcoxon signed-rank test,81.5,,,0.0010979035435978483

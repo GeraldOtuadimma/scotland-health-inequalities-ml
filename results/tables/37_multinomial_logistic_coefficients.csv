@@ -1,0 +1,25 @@
+class_code,hle_category,feature,feature_label,standardised_class_score_coefficient
+0,Low HLE,sex_female,Female sex,-0.11106748095507216
+0,Low HLE,simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),0.6426353613831522
+0,Low HLE,economic_employment_rate_pct,Employment rate (%),-0.17711015494110985
+0,Low HLE,economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),0.5192794563317831
+0,Low HLE,census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),-0.2097907756790542
+0,Low HLE,census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,0.04672491683721379
+0,Low HLE,economic_part_time_among_employed_pct,Part-time among employed (%),-0.1317080298679685
+0,Low HLE,economic_self_employed_among_employed_pct,Self-employed among employed (%),-0.1607359826812201
+1,Middle HLE,sex_female,Female sex,0.026509529879099228
+1,Middle HLE,simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),-0.13219818779699047
+1,Middle HLE,economic_employment_rate_pct,Employment rate (%),0.11518885307296545
+1,Middle HLE,economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),-0.023488624861389387
+1,Middle HLE,census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),-0.06115635028311705
+1,Middle HLE,census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,0.01007672980268906
+1,Middle HLE,economic_part_time_among_employed_pct,Part-time among employed (%),-0.024383324497108564
+1,Middle HLE,economic_self_employed_among_employed_pct,Self-employed among employed (%),-0.020048871300915604
+2,High HLE,sex_female,Female sex,0.08455795107597285
+2,High HLE,simd_most_deprived_quintile_datazones_share_pct,Most deprived data zones (%),-0.5104371735861618
+2,High HLE,economic_employment_rate_pct,Employment rate (%),0.06192130186814447
+2,High HLE,economic_inactive_long_term_sick_disabled_rate_pct,Inactive due to long-term sickness (%),-0.4957908314703936
+2,High HLE,census_degree_level_qualification_or_above_population_aged_16plus_pct,Degree-level qualification or above (%),0.2709471259621713
+2,High HLE,census_ethnic_diversity_simpson_index_broad_groups,Ethnic diversity index,-0.05680164663990281
+2,High HLE,economic_part_time_among_employed_pct,Part-time among employed (%),0.15609135436507696
+2,High HLE,economic_self_employed_among_employed_pct,Self-employed among employed (%),0.18078485398213576

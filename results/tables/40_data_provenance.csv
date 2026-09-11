@@ -1,0 +1,8 @@
+source,period,level,analytical_role,url
+"National Records of Scotland Healthy Life Expectancy 2022-2024, Table 2",2022-2024,Council area × sex × HLE age group,Outcome and official 95% confidence intervals,https://www.nrscotland.gov.uk/publications/healthy-life-expectancy-2022-2024/
+Scottish Index of Multiple Deprivation 2020v2,2020,Data Zone aggregated to council area,Area-deprivation context,https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/
+Scotland's Census 2022: economic activity,2022,"Council area × sex, population aged 16+",Employment and economic-activity context,https://www.scotlandscensus.gov.uk/metadata/economic-activity/
+Scotland's Census 2022: ethnic group,2022,Council area,Ethnic composition and diversity context,https://statistics.ukdataservice.ac.uk/dataset/547ea310-79ce-49a1-8aae-bcffb5ffdca4
+"Scotland's Census 2022: education, labour market and travel to work",2022,"Council area, population aged 16+",Degree-level education context,https://www.scotlandscensus.gov.uk/documents/scotlands-census-2022-education-labour-market-and-travel-to-work-chart-data/
+Scotland's Census 2022: long-term health conditions and disability,2022,Council area,Outcome-adjacent sensitivity context,https://www.scotlandscensus.gov.uk/census-results/at-a-glance/health-disability-and-unpaid-care/
+Public Health Scotland: alcohol-related hospital statistics,2023/24,Council area,Outcome-adjacent health-context sensitivity,https://publichealthscotland.scot/publications/alcohol-related-hospital-statistics/alcohol-related-hospital-statistics-scotland-financial-year-2023-to-2024/
