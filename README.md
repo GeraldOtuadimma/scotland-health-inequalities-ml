@@ -29,6 +29,7 @@ The main results are saved in the `results/` folder.
 * `results/tables/`: statistical and machine learning results.
 * `results/ANALYSIS_SUMMARY.md`: summary of the main findings.
 * `requirements.txt`: Python packages used.
+* `LICENSE`
 
 ## Data
 
